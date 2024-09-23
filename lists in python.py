@@ -1,4 +1,4 @@
-marks1= 94.4
+marks1= 93.3
 marks2= 87.5
 marks3= 95.2
 marks4= 66.4
