@@ -1,0 +1,1 @@
+print(set1.intersection(set2))
